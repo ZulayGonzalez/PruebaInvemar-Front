@@ -3,7 +3,8 @@
 
 [![N|Solid](https://camo.githubusercontent.com/4b7b4b61346902ad6fcfc2d7aa4da49a6ef6bcaaf24d1bfc93dd02c4b1fd5904/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f72656163742d322d3435383137352e706e67)](https://nodesource.com/products/nsolid)
 ## Creation
-proyecto React.js creado con Vite
+Proyecto React.js creado con Vite
+Utilicé esta herramienta porque es mas rápida y flexible
 ## Installation
 Para lanzar el proyecto localmente se deben seguir estos pasos.
 ```sh
